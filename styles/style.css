@@ -790,3 +790,10 @@ footer{
       }
 
 }
+
+.logo-mio{
+    color: var(--color-text-primary);
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
